@@ -32,3 +32,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `dotnet run`
 
 Builds and runs dotnet minimal api
+
+
+### Sample Demo Screenshots
+
+<img width="1151" alt="Screen Shot 2024-02-28 at 6 25 46 PM" src="https://github.com/beldebala/ReactLoginApp/assets/3357276/668ae091-cbde-434d-9187-de09a9abc565">
